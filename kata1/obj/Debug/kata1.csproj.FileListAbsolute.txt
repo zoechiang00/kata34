@@ -1,0 +1,6 @@
+C:\Users\zoe.chiang85\source\repos\kata1\kata1\bin\Debug\kata1.dll
+C:\Users\zoe.chiang85\source\repos\kata1\kata1\bin\Debug\kata1.pdb
+C:\Users\zoe.chiang85\source\repos\kata1\kata1\obj\Debug\kata1.csprojResolveAssemblyReference.cache
+C:\Users\zoe.chiang85\source\repos\kata1\kata1\obj\Debug\kata1.csproj.CoreCompileInputs.cache
+C:\Users\zoe.chiang85\source\repos\kata1\kata1\obj\Debug\kata1.dll
+C:\Users\zoe.chiang85\source\repos\kata1\kata1\obj\Debug\kata1.pdb
